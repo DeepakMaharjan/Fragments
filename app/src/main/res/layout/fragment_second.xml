@@ -27,11 +27,20 @@
         />
 
     <Button
+        android:id="@+id/btnRadius"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Calculate Radius"
         android:textSize="20sp"
         android:layout_margin="20dp"
         />
+
+    <TextView
+    android:id="@+id/tvRadiusResult"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text=""
+    android:textSize="20sp"/>
+
 
 </LinearLayout>

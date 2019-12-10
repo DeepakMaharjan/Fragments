@@ -14,13 +14,13 @@
         android:layout_height="wrap_content"
         android:text="Load First Fragment"
         android:layout_margin="20dp"
-        android:background=""
         />
 
     <LinearLayout
         android:id="@+id/fragmentLayout"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:orientation="vertical"/>
 
 
 
