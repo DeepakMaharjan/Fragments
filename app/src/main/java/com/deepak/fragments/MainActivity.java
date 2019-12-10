@@ -14,7 +14,6 @@ import com.deepak.fragments.fragments.SecondFragment;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private Button btnFragment;
-
     private Boolean status = true;
 
     @Override
